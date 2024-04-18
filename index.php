@@ -7,5 +7,6 @@
 </head>
 <body>
     <?= "welcome to Belajarweb" ; ?>
+    <h1>Hello world</h1>
 </body>
 </html>
